@@ -77,22 +77,6 @@ lib/
  └── widgets/
 ```
 
-
-── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ── PROGRESSO ── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──
-
-  ✦  Setup Flutter + dependências (sqflite, path_provider, path)
-  ✦  Database singleton + criação das tabelas + seed do streak_state
-  ✦  Models (daily_entry, streak_state)
-  ✦  DAOs (daily / streak)
-  ◇  Home screen
-  ◇  Daily entry screen
-  ◇  Streak logic
-  ◇  History screen
-  ◇  UI polish
-
-  ✦ concluído   ◇ pendente
-
-
 ── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ── RODANDO ── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──
 
 ```bash
