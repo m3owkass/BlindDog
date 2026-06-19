@@ -1,17 +1,11 @@
 ≪ °❈° ≫ B L I N D   D O G ≪ °❈° ≫
 
-um registro pessoal contínuo de estado mental, hábitos e streak
-— com foco em autoconsciência, não em performance.
+um registro pessoal contínuo de estado mental, hábitos e streak.
 
-Blind Dog não é um tracker de produtividade. É um sistema íntimo de
-acompanhamento de continuidade pessoal em dias não-lineares.
-
-❝ como eu continuo existindo ao longo dos dias,
-  mesmo quando minha percepção de mim mesmo está falha ❞
+❝No. This is somewhere to be. This is all you have, but it's still something. Streets and sodium lights. The sky, the world. You're still alive.❞
 
 O nome representa instinto ao invés de controle, continuidade mesmo
-sem clareza, e persistência imperfeita. O streak não mede desempenho —
-ele só diz que o cachorro ainda está andando.
+sem clareza, e persistência imperfeita.
 
 
 ── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ── STACK ── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──
